@@ -1,0 +1,18 @@
+{
+	"editor.tabSize": 4,
+	"editor.insertSpaces": true,
+	"editor.formatOnSave": true,
+	"files.associations": {
+		"vector": "cpp",
+		"iosfwd": "cpp",
+		"iostream": "cpp",
+		"unordered_map": "cpp",
+		"string": "cpp",
+		"__split_buffer": "cpp",
+		"__bit_reference": "cpp",
+		"__hash_table": "cpp",
+		"array": "cpp",
+		"initializer_list": "cpp",
+		"string_view": "cpp"
+	}
+}
